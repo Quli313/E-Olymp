@@ -31,6 +31,6 @@ cd e-olymp-solutions</code></pre>
 
   <h2>📝 License</h2>
 
-  <p>This project is licensed under the MIT License. For details, refer to the <a href="LICENSE">LICENSE</a> file.</p>
+  <p>This project is licensed under the MIT License. For details, refer to the <a href="https://github.com/Quli313/E-Olymp/blob/main/LICENSE">LICENSE</a> file.</p>
 
   <p>May your coding endeavors be fruitful! 🌌✨</p>
