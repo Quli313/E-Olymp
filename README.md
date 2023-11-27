@@ -11,7 +11,7 @@
     <li>Clone this repository to your computer:</li><br>
   
   <pre><code>git clone https://github.com/Quli313/E-Olymp.git
-cd 500-1000</code></pre>
+cd 0-1000</code></pre>
 
   <li>Explore the contents of the <code>e-olymp-solutions</code> file to find the solution you need.</li>
 
